@@ -51,7 +51,7 @@ public class LineageSettingsActivity extends BaseSetupWizardActivity {
 
     public static final String TAG = LineageSettingsActivity.class.getSimpleName();
 
-    public static final String PRIVACY_POLICY_URI = "https://floko.maud.io";
+    public static final String PRIVACY_POLICY_URI = "https://todak.com";
 
     private SetupWizardApp mSetupWizardApp;
 
